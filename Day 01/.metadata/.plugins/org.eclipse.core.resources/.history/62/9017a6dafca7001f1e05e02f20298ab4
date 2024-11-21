@@ -1,0 +1,18 @@
+package com.dhanashri;
+
+//find the element using binarysort (used when array is sorted)-->
+public class BinarySearchProgram {
+	public static void main(String[] args) {
+		int arr[] = { 11, 22, 33, 44, 55, 66, 77, 88, 99 };
+
+		Scanner sc = new Scanner(System.in);
+
+	}
+
+	public static int BinarySearchFun(int arr[], int element) {
+		
+		return 0
+
+	}
+
+}
